@@ -1,0 +1,1 @@
+# stepik8.2.4_matrica_po_glavnoy_diagonali
